@@ -55,12 +55,13 @@
 Пользователь получает доступ к следующим основным разделам:
     
 1. **Главная страница расходов** — список добавленных расходов с возможностью фильтрации и поиска.
-   <img src="Mockups/main_window.jpg" width="60%" />
+   <img src="https://github.com/Litaev/JRCPO/blob/main/Mockups/main_window.jpg?raw=true" alt="" style="max-width: 50%;">
 2. **Добавление/редактирование расхода** — форма с выбором категории (топливо, сервис, парковка и т.п.), даты, суммы и описания.
-   <img src="Mockups/add_refueling.jpg" width="60%" /> <img src="Mockups/add_service.jpg" width="60%" />
-3. **Раздел статистики** — визуализация трат в виде диаграмм (например, сравнение расходов по категориям). <img src="Mockups/car_stats.jpg" width="60%" />
+   <img src="https://github.com/Litaev/JRCPO/blob/main/Mockups/add_refueling.jpg?raw=true" alt="" style="max-width: 50%;">
+   <img src="https://github.com/Litaev/JRCPO/blob/main/Mockups/add_service.jpg?raw=true" alt="" style="max-width: 50%;">
+3. **Раздел статистики** — визуализация трат в виде диаграмм (например, сравнение расходов по категориям). <img src="https://github.com/Litaev/JRCPO/blob/main/Mockups/car_stats.jpg?raw=true" alt="" style="max-width: 50%;">
 4. **Список всех автомобилей пользователя** — добавление и выбор автомобилей.
-<img src="Mockups/garage.jpg" width="60%" />
+   <img src="https://github.com/Litaev/JRCPO/blob/main/Mockups/garage.jpg?raw=true" alt="" style="max-width: 50%;">
 ---
 
 ### 2.3 Характеристики пользователей
