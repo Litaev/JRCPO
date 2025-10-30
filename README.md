@@ -23,5 +23,5 @@ Language: C++.
 [source code(Sources)](https://github.com/Litaev/JRCPO/tree/main/Sources)
 [source code(UI)](https://github.com/Litaev/JRCPO/tree/main/Qml)
 
-[Test plan]() _not implemented_ <br>
-[Test results]() _not implemented_
+[Test plan](https://github.com/Litaev/JRCPO/tree/main/TestPlan.md) 
+[Test results](https://github.com/Litaev/JRCPO/tree/main/TestResults.md)
