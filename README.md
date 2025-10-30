@@ -19,7 +19,9 @@ Language: C++.
 
 [Diagrams](https://github.com/Litaev/JRCPO/tree/main/Diagrams)
 
-[source code]() _not implemented_
+[source code(Headers)](https://github.com/Litaev/JRCPO/tree/main/Headers)
+[source code(Sources)](https://github.com/Litaev/JRCPO/tree/main/Sources)
+[source code(UI)](https://github.com/Litaev/JRCPO/tree/main/Qml)
 
 [Test plan]() _not implemented_ <br>
 [Test results]() _not implemented_
